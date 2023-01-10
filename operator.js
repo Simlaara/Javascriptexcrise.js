@@ -35,10 +35,11 @@ let num2 = num1;
  document.writeln(price>50 || price<15);
  document.writeln(!( price<15));*/
  //Eqality operators
- let price =10;
+ /*let price =10;
  document.writeln(price === '10');
  document.writeln(price !== 20);
  document.writeln(price == '10');
  document.writeln(price != 20);
+ */
  
 

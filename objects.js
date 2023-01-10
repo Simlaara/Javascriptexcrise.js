@@ -13,11 +13,11 @@ document.write(user.hobby);
 document.write(user['name'])*/
 
 //Adding,modifying,deleteing property(dynamic property access);
-const user={
-    name:'simla',
-    age:'24',
-    hobby:'cooking',
-} ;
-user.email='simla@gmail.com';
-delete user.age;
-document.write(user.age);
+//const user={
+   // name:'simla',
+   // age:'24',
+    //hobby:'cooking',
+//} ;
+//user.email='simla@gmail.com';
+//delete user.age;
+//document.write(user.age);
